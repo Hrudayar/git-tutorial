@@ -12,3 +12,4 @@ this is my new change
 # Added new devops profile
 # Added testing profile
 # Added feature rel_1.3
+# fixing new picture
