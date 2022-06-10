@@ -12,3 +12,5 @@ I want to made some changes
 # New feature for 
 
 # Added some testing feature
+
+# Added new picture

@@ -13,3 +13,4 @@ this is my new change
 
 # Added some testing feature
 
+# Added new picture
